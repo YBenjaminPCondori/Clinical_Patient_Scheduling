@@ -1,0 +1,12 @@
+# Core notebook/runtime dependencies
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+gymnasium>=0.29
+jupyter>=1.0
+ipykernel>=6.0
+
+# PPO training dependencies
+stable-baselines3>=2.3
+# If torch fails on Windows/Conda, reinstalling from pip in a clean venv is usually safer.
+torch>=2.2
