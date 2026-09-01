@@ -1,0 +1,4 @@
+action,action_name,count
+0,allocate_icu,22085
+1,allocate_general,29808
+2,delay_patient,23107
